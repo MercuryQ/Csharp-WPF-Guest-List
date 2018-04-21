@@ -1,0 +1,17 @@
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\bin\Debug\SimpleList.exe.config
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\bin\Debug\SimpleList.exe
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\bin\Debug\SimpleList.pdb
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\SimpleList.csprojResolveAssemblyReference.cache
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\MainWindow.g.cs
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\App.g.cs
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\SimpleList_MarkupCompile.cache
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\SimpleList_MarkupCompile.lref
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\MainWindow.baml
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\SimpleList.g.resources
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\SimpleList.Properties.Resources.resources
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\SimpleList.csproj.GenerateResource.cache
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\SimpleList.csproj.CoreCompileInputs.cache
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\SimpleList.exe
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\SimpleList.pdb
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\AddList.g.cs
+C:\Users\Gamer1\Desktop\github uploads\SimpleList\SimpleList\obj\Debug\AddList.baml
