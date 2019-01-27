@@ -1,2 +1,2 @@
 # Csharp-WPF-Guest-List
-This is a C# WPF program which implements a HashSet to prevent name duplications and coverts the HashSet index into a List, to display the guest list. 
+A WPF (C#) program using a HashSet, preventing name duplications. This program also converts the HashSet index into a List, to display the guest list. 
